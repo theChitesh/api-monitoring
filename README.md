@@ -1,6 +1,6 @@
 # MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3. The CLI is used to create a sample application for API Monitoring. After coping the project from the git. Run `npm i` or `npm install` this will download and resolve all the dependencies. 
 
 ## Development server
 
